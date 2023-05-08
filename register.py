@@ -1,0 +1,1 @@
+print("register.py 파일")
